@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhinav-Rangarajan
+- 👋 Hi, I’m @Abhinav Rangarajan
 - 👀 I’m interested in Developing apps
 - 🌱 I’m currently learning Python,JS,Flutter
 - 💞️ I’m looking to collaborate on Building a fitness app
